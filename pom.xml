@@ -6,7 +6,7 @@
 
     <groupId>com.github.cschen1205</groupId>
     <artifactId>java-ann-falcon</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <licenses>
         <license>

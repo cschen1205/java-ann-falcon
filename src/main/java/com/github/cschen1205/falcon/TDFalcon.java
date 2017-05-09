@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Created by cschen on 9/28/2015 0028.
- * @brief TD-Falcon is based on "Self-organizing neural architectures and cooperative learning in multiagent environment"
+ * TD-Falcon is based on "Self-organizing neural architectures and cooperative learning in multiagent environment"
  */
 public class TDFalcon extends Falcon {
     public double QEpsilon = 0.50000; // parameter for the epsilon-greedy action selection strategy
